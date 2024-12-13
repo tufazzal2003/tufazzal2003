@@ -5,12 +5,12 @@ Welcome to my GitHub profile! I'm a "Computer Science student" with a passion fo
  🌱 About Me
 - **Currently studying**: Computer Science Engineering
 - **Interests**: Web Development, AI & Machine Learning, Data Structures, and Algorithms
-- **Learning**: Advanced algorithms, Cloud Computing, and Full Stack Development
+- **Learning**: Advanced algorithms and Full Stack Development
 
  🛠️ Skills
-- **Languages**:  Java, JavaScript, HTML, CSS, c++
-- **Frameworks**: React, Node.js, Flask
-- **Tools**: Git, Docker, VS Code
+- **Languages**:  Java,HTML, CSS, C++
+- **Frameworks**: React
+- **Tools**: Git,  VS Code
 
 
 
